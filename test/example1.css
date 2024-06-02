@@ -1,0 +1,23 @@
+.unvalid-class {
+    color: blue;
+}
+
+#unvalid-id {
+    color: green;
+}
+
+.doc-test {
+    color: #fff;
+}
+
+#doc-test {
+    color: #fff;
+}
+
+.doc-test .xxx {
+    color: red;
+}
+
+.s1 > .s2, .s3 {
+    color: gray;
+}
